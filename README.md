@@ -1,6 +1,6 @@
-<h1 align="center">BLOG del viajero</h1>
+<h1 align="center">CALCULADORA</h1>
 
-<p align="center">Un blog en html con estilos para documentar los mejores sitios turísticos</p>
+<p align="center">Una calculadora con voz</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
@@ -11,7 +11,7 @@
 
 ## Índice
 1. [Introducción](#introducción)
-2. [Estructura del BLOG del viajero](#estructura-del-BLOG-del-viajero)
+2. [Estructura de la calculadora](#estructura-de-la-calculadora)
 3. [Visualización](#visualización)
 4. [Tecnologías Empleadas](#tecnologías-empleadas)
 5. [Codificación](#codificación)
